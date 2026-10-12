@@ -25,12 +25,69 @@ My work combines enterprise engineering, independent product delivery, and techn
 
 ### My toolkit
 
-**Core frontend** &nbsp; `Angular` `TypeScript` `JavaScript` `RxJS` `HTML` `SCSS`  
-**Mobile & components** &nbsp; `Ionic` `Capacitor` `Stencil.js` `Web Components`  
-**State & testing** &nbsp; `NgRx` `Angular Signals` `Jasmine` `Karma`  
-**Integration & delivery** &nbsp; `REST APIs` `Firebase` `Node.js` `Git` `Azure DevOps`
+**Core frontend**
 
-I also have knowledge of **React and React Native**, and experience modernizing legacy Angular applications.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/angular/angular-original.svg" width="36" height="36" alt="Angular" title="Angular" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg" width="36" height="36" alt="React" title="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg" width="36" height="36" alt="React Native" title="React Native" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/rxjs/rxjs-original.svg" width="36" height="36" alt="RxJS" title="RxJS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" title="HTML" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/sass/sass-original.svg" width="36" height="36" alt="SCSS" title="SCSS" />
+</p>
+
+`Angular` `TypeScript` `JavaScript` `React` `React Native` `RxJS` `HTML` `SCSS`
+
+**Mobile & components**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/ionic/ionic-original.svg" width="36" height="36" alt="Ionic" title="Ionic" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/capacitor/capacitor-original.svg" width="36" height="36" alt="Capacitor" title="Capacitor" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stencil.js-334155?style=for-the-badge&logo=stencil&logoColor=white" height="36" alt="Stencil.js" title="Stencil.js" />
+</p>
+
+`Ionic` `Capacitor` `Stencil.js` `Web Components`
+
+**State & testing**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/ngrx/ngrx-original.svg" width="36" height="36" alt="NgRx" title="NgRx" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/angular/angular-original.svg" width="36" height="36" alt="Angular Signals" title="Angular Signals" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jasmine/jasmine-original.svg" width="36" height="36" alt="Jasmine" title="Jasmine" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/karma/karma-original.svg" width="36" height="36" alt="Karma" title="Karma" />
+</p>
+
+`NgRx` `Angular Signals` `Jasmine` `Karma`
+
+**Integration & delivery**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/firebase/firebase-original.svg" width="36" height="36" alt="Firebase" title="Firebase" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/azuredevops/azuredevops-original.svg" width="36" height="36" alt="Azure DevOps" title="Azure DevOps" />
+</p>
+
+`REST APIs` `Firebase` `Node.js` `Git` `Azure DevOps`
+
+My primary specialization is Angular, TypeScript, and Ionic. React and React Native are also part of my toolkit. I have experience modernizing legacy Angular applications.
 
 ### Let's connect
 
@@ -56,12 +113,12 @@ Mi experiencia combina ingeniería en entornos empresariales, desarrollo indepen
 
 ### Tecnologías
 
-- **Frontend:** Angular, TypeScript, JavaScript, RxJS, HTML y SCSS.
+- **Frontend:** Angular, TypeScript, JavaScript, React, React Native, RxJS, HTML y SCSS.
 - **Móvil y componentes:** Ionic, Capacitor, Stencil.js y Web Components.
 - **Estado y pruebas:** NgRx, Angular Signals, Jasmine y Karma.
 - **Integración y entrega:** APIs REST, Firebase, Node.js, Git y Azure DevOps.
 
-También tengo conocimientos de **React y React Native**, y experiencia modernizando aplicaciones Angular existentes.
+Mi especialización principal es **Angular, TypeScript e Ionic**. React y React Native también forman parte de mi toolkit. Tengo experiencia modernizando aplicaciones Angular existentes.
 
 Me interesan oportunidades como **Senior Frontend Engineer** y **Frontend & Mobile Engineer**, tanto en República Dominicana como con equipos internacionales en remoto.
 
