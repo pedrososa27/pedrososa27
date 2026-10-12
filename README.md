@@ -87,8 +87,6 @@ My work combines enterprise engineering, independent product delivery, and techn
 
 `REST APIs` `Firebase` `Node.js` `Git` `Azure DevOps`
 
-My primary specialization is Angular, TypeScript, and Ionic. React and React Native are also part of my toolkit. I have experience modernizing legacy Angular applications.
-
 ### Let's connect
 
 I'm interested in **Senior Frontend Engineer** and **Frontend & Mobile Engineer** opportunities in the Dominican Republic and with international remote teams.
@@ -117,8 +115,6 @@ Mi experiencia combina ingeniería en entornos empresariales, desarrollo indepen
 - **Móvil y componentes:** Ionic, Capacitor, Stencil.js y Web Components.
 - **Estado y pruebas:** NgRx, Angular Signals, Jasmine y Karma.
 - **Integración y entrega:** APIs REST, Firebase, Node.js, Git y Azure DevOps.
-
-Mi especialización principal es **Angular, TypeScript e Ionic**. React y React Native también forman parte de mi toolkit. Tengo experiencia modernizando aplicaciones Angular existentes.
 
 Me interesan oportunidades como **Senior Frontend Engineer** y **Frontend & Mobile Engineer**, tanto en República Dominicana como con equipos internacionales en remoto.
 
